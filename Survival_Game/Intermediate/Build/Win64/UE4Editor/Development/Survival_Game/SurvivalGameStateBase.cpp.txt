@@ -1,0 +1,9 @@
+D:\IanBarrow\Documents\Start_Project\Survival_Game\Intermediate\Build\Win64\UE4Editor\Development\Survival_Game\Definitions.Survival_Game.h
+D:\IanBarrow\Documents\Start_Project\Survival_Game\Source\Survival_Game/Framework/SurvivalGameStateBase.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
+D:\IanBarrow\Documents\Start_Project\Survival_Game\Intermediate\Build\Win64\UE4Editor\Inc\Survival_Game\SurvivalGameStateBase.generated.h
