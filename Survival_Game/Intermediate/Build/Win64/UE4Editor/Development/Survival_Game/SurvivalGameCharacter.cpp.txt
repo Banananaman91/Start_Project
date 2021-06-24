@@ -130,3 +130,5 @@ D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\In
 D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
 D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetComponent.generated.h
 D:\IanBarrow\Documents\Start_Project\Survival_Game\Intermediate\Build\Win64\UE4Editor\Inc\Survival_Game\InteractionComponent.generated.h
+D:\IanBarrow\Documents\Start_Project\Survival_Game\Source\Survival_Game/Components/InventoryComponent.h
+D:\IanBarrow\Documents\Start_Project\Survival_Game\Intermediate\Build\Win64\UE4Editor\Inc\Survival_Game\InventoryComponent.generated.h

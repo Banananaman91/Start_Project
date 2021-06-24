@@ -16,6 +16,8 @@ void EmptyLinkFunctionForGeneratedCodeSurvival_Game_init() {}
 	SURVIVAL_GAME_API UFunction* Z_Construct_UDelegateFunction_Survival_Game_OnBeginFocus__DelegateSignature();
 	SURVIVAL_GAME_API UFunction* Z_Construct_UDelegateFunction_Survival_Game_OnEndFocus__DelegateSignature();
 	SURVIVAL_GAME_API UFunction* Z_Construct_UDelegateFunction_Survival_Game_OnInteract__DelegateSignature();
+	SURVIVAL_GAME_API UFunction* Z_Construct_UDelegateFunction_Survival_Game_OnInventoryUpdated__DelegateSignature();
+	SURVIVAL_GAME_API UFunction* Z_Construct_UDelegateFunction_Survival_Game_OnItemModified__DelegateSignature();
 	UPackage* Z_Construct_UPackage__Script_Survival_Game()
 	{
 		static UPackage* ReturnPackage = nullptr;
@@ -27,14 +29,16 @@ void EmptyLinkFunctionForGeneratedCodeSurvival_Game_init() {}
 				(UObject* (*)())Z_Construct_UDelegateFunction_Survival_Game_OnBeginFocus__DelegateSignature,
 				(UObject* (*)())Z_Construct_UDelegateFunction_Survival_Game_OnEndFocus__DelegateSignature,
 				(UObject* (*)())Z_Construct_UDelegateFunction_Survival_Game_OnInteract__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_Survival_Game_OnInventoryUpdated__DelegateSignature,
+				(UObject* (*)())Z_Construct_UDelegateFunction_Survival_Game_OnItemModified__DelegateSignature,
 			};
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/Survival_Game",
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xFDB852D2,
-				0xBA30CEAA,
+				0x11577130,
+				0x96FE3BD0,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

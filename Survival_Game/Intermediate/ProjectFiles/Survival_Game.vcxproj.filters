@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Survival_Game.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{206D0FC9-23DA-429C-927D-B72B4C5556CB}</UniqueIdentifier>
+      <UniqueIdentifier>{7BB93F47-E548-4520-B8D7-E6706E9EBC23}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Survival_Game.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{60B03550-03AE-4469-8B06-1DD9D25C51D1}</UniqueIdentifier>
+      <UniqueIdentifier>{750125CC-1AFF-49C5-85F1-69D7FFB36D85}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Survival_Game">
-      <UniqueIdentifier>{2D85C0AE-5586-4CCD-A83F-A4A6A375FC48}</UniqueIdentifier>
+      <UniqueIdentifier>{190924A0-2FE1-430F-B8A0-F1ABE69CC308}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Survival_Game\Survival_Game.Build.cs">
       <Filter>Source\Survival_Game</Filter>
@@ -54,7 +54,7 @@
       <Filter>Source\Survival_Game</Filter>
     </ClInclude>
     <Filter Include="Source\Survival_Game\Components">
-      <UniqueIdentifier>{6DAB0126-2E0C-4FD0-AA0D-264F12B909B2}</UniqueIdentifier>
+      <UniqueIdentifier>{EF1AEDAF-7C9E-4899-9749-A9363633C8F7}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Survival_Game\Components\InteractionComponent.cpp">
       <Filter>Source\Survival_Game\Components</Filter>
@@ -62,8 +62,14 @@
     <ClInclude Include="..\..\Source\Survival_Game\Components\InteractionComponent.h">
       <Filter>Source\Survival_Game\Components</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Survival_Game\Components\InventoryComponent.cpp">
+      <Filter>Source\Survival_Game\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Survival_Game\Components\InventoryComponent.h">
+      <Filter>Source\Survival_Game\Components</Filter>
+    </ClInclude>
     <Filter Include="Source\Survival_Game\Framework">
-      <UniqueIdentifier>{2244D7EB-C8CE-46A2-B69C-FA5367369C26}</UniqueIdentifier>
+      <UniqueIdentifier>{606AFE42-CF91-4ACE-998C-6CFDCFA828C2}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Survival_Game\Framework\SurvivalGameInstance.cpp">
       <Filter>Source\Survival_Game\Framework</Filter>
@@ -83,8 +89,23 @@
     <ClInclude Include="..\..\Source\Survival_Game\Framework\SurvivalGameStateBase.h">
       <Filter>Source\Survival_Game\Framework</Filter>
     </ClInclude>
+    <Filter Include="Source\Survival_Game\Items">
+      <UniqueIdentifier>{16321817-323C-4B00-B28B-30CD7A347863}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Survival_Game\Items\FoodItem.cpp">
+      <Filter>Source\Survival_Game\Items</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Survival_Game\Items\FoodItem.h">
+      <Filter>Source\Survival_Game\Items</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Survival_Game\Items\Item.cpp">
+      <Filter>Source\Survival_Game\Items</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Survival_Game\Items\Item.h">
+      <Filter>Source\Survival_Game\Items</Filter>
+    </ClInclude>
     <Filter Include="Source\Survival_Game\Player">
-      <UniqueIdentifier>{09F76371-4A03-4531-82BC-1D40CBE27AF1}</UniqueIdentifier>
+      <UniqueIdentifier>{AC70177C-6C06-4CA7-A772-1BA0965C9AC9}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Survival_Game\Player\SurvivalGameCharacter.cpp">
       <Filter>Source\Survival_Game\Player</Filter>
@@ -99,12 +120,24 @@
       <Filter>Source\Survival_Game\Player</Filter>
     </ClInclude>
     <Filter Include="Source\Survival_Game\Widgets">
-      <UniqueIdentifier>{6FEB1920-C205-46E1-BBF1-58E4C6D3A3CF}</UniqueIdentifier>
+      <UniqueIdentifier>{D07A6E8B-491F-4532-BD71-67EC682F0CA9}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Survival_Game\Widgets\InteractionWidget.cpp">
       <Filter>Source\Survival_Game\Widgets</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Survival_Game\Widgets\InteractionWidget.h">
+      <Filter>Source\Survival_Game\Widgets</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Survival_Game\Widgets\InventoryItemWidget.cpp">
+      <Filter>Source\Survival_Game\Widgets</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Survival_Game\Widgets\InventoryItemWidget.h">
+      <Filter>Source\Survival_Game\Widgets</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Survival_Game\Widgets\ItemToolTipWidget.cpp">
+      <Filter>Source\Survival_Game\Widgets</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Survival_Game\Widgets\ItemToolTipWidget.h">
       <Filter>Source\Survival_Game\Widgets</Filter>
     </ClInclude>
   </ItemGroup>

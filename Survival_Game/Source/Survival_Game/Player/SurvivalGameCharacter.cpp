@@ -7,6 +7,7 @@
 #include "Components/SkeletalMeshComponent.h"
 #include "Camera/CameraComponent.h"
 #include "Survival_Game/Components/InteractionComponent.h"
+#include "Survival_Game/Components/InventoryComponent.h"
 
 // Sets default values
 ASurvivalGameCharacter::ASurvivalGameCharacter()
@@ -57,6 +58,10 @@ ASurvivalGameCharacter::ASurvivalGameCharacter()
 
 	interactionCheckDistance = 1000.0f;
 	interactionCheckFrequency = 0.0f;
+
+	playerInventory = CreateDefaultSubobject<UInventoryComponent>("Player Inventory");
+	playerInventory->SetCapacity(200);
+	playerInventory->SetWeightCapacity(600);
 }
 
 // Called when the game starts or when spawned

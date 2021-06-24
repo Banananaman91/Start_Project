@@ -1,0 +1,1138 @@
+﻿Log file open, 06/22/21 13:58:57
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Survival_Game
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.327380
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/barro/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.22-12.59.00:317][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.22-12.59.00:317][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.22-12.59.00:317][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Engine.ini]
+[2021.06.22-12.59.00:317][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.22-12.59.00:317][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Engine.ini]
+[2021.06.22-12.59.00:317][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Engine.ini]
+[2021.06.22-12.59.00:317][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.22-12.59.00:317][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.22-12.59.00:317][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Engine.ini]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.22-12.59.00:318][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Engine.ini]
+[2021.06.22-12.59.00:318][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Engine.ini]
+[2021.06.22-12.59.00:338][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:338][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.22-12.59.00:338][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.22-12.59.00:338][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:338][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.22-12.59.00:338][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:338][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.22-12.59.00:338][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.22-12.59.00:338][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.22-12.59.00:339][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.22-12.59.00:340][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.22-12.59.00:341][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.22-12.59.00:342][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.22-12.59.00:342][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.22-12.59.00:342][  0]LogHAL: Display: Platform has ~ 16 GB [17084964864 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.22-12.59.00:342][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.22-12.59.00:342][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.22-12.59.00:342][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.22-12.59.00:343][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.22-12.59.00:344][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.22-12.59.00:345][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:346][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.22-12.59.00:346][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.22-12.59.00:346][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Scalability.ini]
+[2021.06.22-12.59.00:346][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.22-12.59.00:346][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.22-12.59.00:346][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.22-12.59.00:346][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.22-12.59.00:346][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.22-12.59.00:346][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.22-12.59.00:346][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.22-12.59.00:346][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Engine.ini]
+[2021.06.22-12.59.00:347][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Config/Windows/Editor.ini]
+[2021.06.22-12.59.00:347][  0]LogInit: Computer: DESKTOP-EA0VOUF
+[2021.06.22-12.59.00:347][  0]LogInit: User: barro
+[2021.06.22-12.59.00:347][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.06.22-12.59.00:347][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.22-12.59.00:347][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.06.22-12.59.00:347][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.22-12.59.00:347][  0]LogMemory: Process Physical Memory: 135.44 MB used, 135.45 MB peak
+[2021.06.22-12.59.00:347][  0]LogMemory: Process Virtual Memory: 112.14 MB used, 112.14 MB peak
+[2021.06.22-12.59.00:347][  0]LogMemory: Physical Memory: 8977.88 MB used,  7315.61 MB free, 16293.49 MB total
+[2021.06.22-12.59.00:347][  0]LogMemory: Virtual Memory: 134213424.00 MB used,  4305.21 MB free, 134217728.00 MB total
+[2021.06.22-12.59.00:359][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.22-12.59.04:266][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.22-12.59.04:277][  0]LogInit: Using OS detected language (en-GB).
+[2021.06.22-12.59.04:277][  0]LogInit: Using OS detected locale (en-GB).
+[2021.06.22-12.59.04:573][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.06.22-12.59.05:109][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.22-12.59.05:153][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.22-12.59.05:292][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.22-12.59.05:292][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.22-12.59.06:882][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.06.22-12.59.06:882][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.22-12.59.06:882][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.22-12.59.06:882][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.22-12.59.07:077][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2021.06.22-12.59.07:077][  0]LogD3D11RHI:       11127/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.22-12.59.07:088][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.22-12.59.07:088][  0]LogD3D11RHI:       0/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.22-12.59.07:088][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.22-12.59.07:097][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.22-12.59.07:097][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.22-12.59.07:097][  0]LogWindows: EnumDisplayDevices:
+[2021.06.22-12.59.07:097][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2021.06.22-12.59.07:098][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.06.22-12.59.07:098][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.06.22-12.59.07:098][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2021.06.22-12.59.07:098][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.22-12.59.07:098][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2021.06.22-12.59.07:098][  0]LogD3D11RHI:   Driver Version: 466.63 (internal:27.21.14.6663, unified:466.63)
+[2021.06.22-12.59.07:098][  0]LogD3D11RHI:      Driver Date: 5-27-2021
+[2021.06.22-12.59.07:098][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2021.06.22-12.59.07:183][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.22-12.59.07:184][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.22-12.59.07:184][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.22-12.59.07:186][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061085).
+[2021.06.22-12.59.07:256][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.22-12.59.07:262][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.22-12.59.07:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.22-12.59.07:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.22-12.59.07:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.22-12.59.07:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.22-12.59.07:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.22-12.59.07:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.22-12.59.07:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.22-12.59.07:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.22-12.59.07:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.22-12.59.07:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.22-12.59.07:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.22-12.59.07:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.22-12.59.07:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.22-12.59.07:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.22-12.59.07:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.22-12.59.07:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.22-12.59.07:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.22-12.59.07:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.22-12.59.07:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.22-12.59.07:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.22-12.59.08:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.22-12.59.08:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.22-12.59.08:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.22-12.59.08:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.22-12.59.08:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.22-12.59.08:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.22-12.59.08:259][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.22-12.59.08:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.22-12.59.08:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.22-12.59.08:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.22-12.59.08:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.22-12.59.08:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.22-12.59.08:684][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.22-12.59.08:808][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.22-12.59.09:804][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.22-12.59.09:804][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Intermediate/Shaders/WorkingDirectory/472/).
+[2021.06.22-12.59.09:804][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/barro/AppData/Local/Temp/UnrealShaderWorkingDir/4B0F3B6E4BBD2ECB19F60E91BF39E814/'.
+[2021.06.22-12.59.09:804][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.22-12.59.09:805][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.22-12.59.12:329][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.22-12.59.12:957][  0]LogDerivedDataCache: Loaded boot cache 0.63s 84MB C:/Users/barro/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.22-12.59.12:958][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/barro/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.22-12.59.12:958][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.22-12.59.12:958][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.22-12.59.12:958][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.22-12.59.12:958][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.22-12.59.12:993][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.22-12.59.12:993][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.22-12.59.12:993][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.22-12.59.13:012][  0]LogDerivedDataCache: Speed tests for C:/Users/barro/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.06.22-12.59.13:012][  0]LogDerivedDataCache: Display: Performance to C:/Users/barro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=76.81MBs, RandomWriteSpeed=175.46MBs. Assigned SpeedClass 'Local'
+[2021.06.22-12.59.13:014][  0]LogDerivedDataCache: Using Local data cache path C:/Users/barro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.22-12.59.13:014][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.22-12.59.13:014][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.22-12.59.13:058][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.22-12.59.13:088][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.22-12.59.13:762][  0]LogAssetRegistry: FAssetRegistry took 0.0053 seconds to start up
+[2021.06.22-12.59.14:238][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.22-12.59.14:238][  0]LogInit: Active device profile: [0000029ECDBED900][0000029EC22F48C0 49] Windows
+[2021.06.22-12.59.14:238][  0]LogInit: Profiles: [0000029ECDBED900][0000029EC22F48C0 49] Windows, [0000029ECDBCFF00][0000029ECCFC6A40 49] WindowsNoEditor, [0000029ECDBEF300][0000029ECCFCABC0 49] WindowsServer, [0000029ECDBCD000][0000029ECCFCED40 49] WindowsClient, [0000029ECDBED100][0000029ECCFD2EC0 49] IOS, [0000029ECDBCFC00][0000029ECCFD7040 49] iPadAir, [0000029ECDBEF200][0000029ECCFDB1C0 49] iPadAir2, [0000029ECDB7E600][0000029ECCFE3480 49] IPadPro, [0000029ECDB7E700][0000029ECCFDF4C0 49] iPadAir3, [0000029ECDBEF700][0000029ECCFC3600 49] iPadAir4, [0000029ECDB7FC00][0000029ECCFE7740 49] iPadMini2, [0000029ECDBEDF00][0000029ECCFEB880 49] iPadMini3, [0000029ECDB7DB00][0000029ECCFEF9C0 49] iPadMini4, [0000029ECDBEDC00][0000029ECCFF7B40 49] iPadMini5, [0000029ECDB91F00][0000029ECCFFE140 49] iPhone6, [0000029ECDB92000][0000029ECCFFA180 49] iPodTouch6, [0000029ECDBCFD00][0000029ECD006440 49] iPhone7, [0000029ECDBCFE00][0000029ECD002480 49] iPodTouch7, [0000029ECDB93600][0000029ECD00A600 49] iPhone5S, [0000029ECDBCD800][0000029ECD00E780 49] iPhone6Plus, [0000029ECDB91900][0000029ECD012900 49] iPhone6S, [0000029ECDBCDF00][0000029ECD016A80 49] iPhone6SPlus, [0000029ECDB90C00][0000029ECD01AC00 49] iPhone7Plus, [0000029ECDBCE700][0000029ECD022D80 49] iPhoneSE, [0000029ECDB91200][0000029ECD02AF00 49] iPhone8, [0000029ECDBCFA00][0000029ECD02F080 49] iPhone8Plus, [0000029ECDB90700][0000029ECD03B200 49] iPhoneX, [0000029ECDBCD200][0000029ECD043380 49] iPhoneXS, [0000029ECDB92500][0000029ECD04B500 49] iPhoneXSMax, [0000029ECDBCC700][0000029ECCFF3640 49] iPhoneXR, [0000029ECDB93000][0000029ECD04F780 49] iPhone11, [0000029ECDBCF300][0000029ECD0538C0 49] iPhone11Pro, [0000029ECDB91800][0000029ECD057A00 49] iPhone11ProMax, [0000029ECDBCE900][0000029EBEE1FB80 49] iPhoneSE2, [0000029ECDB93C00][0000029EBEE23D00 49] iPhone12Mini, [0000029ECDBCE800][0000029EBEE261C0 49] iPhone12, [0000029ECDBEFA00][0000029EBEE2A340 49] iPhone12Pro, [0000029ECDB91700][0000029EBEE2E4C0 49] iPhone12ProMax, [0000029ECDBEFC00][0000029EBEE32640 49] iPadPro105, [0000029ECDB90E00][0000029EBEE367C0 49] iPadPro129, [0000029ECDBEED00][0000029EBEE3A940 49] iPadPro97, [0000029ECDB92C00][0000029EBEE3EAC0 49] iPadPro2_129, [0000029ECDBCD700][0000029EBEE42C40 49] iPad5, [0000029ECDB93800][0000029EBEE46DC0 49] iPad6, [0000029ECDBCDA00][0000029ECE070F40 49] iPad7, [0000029ECDB93B00][0000029ECE0750C0 49] iPad8, [0000029ECDBCCC00][0000029ECE079240 49] iPadPro11, [0000029ECDB90B00][0000029ECE07D3C0 49] iPadPro2_11, [0000029ECDBCF900][0000029ECE081540 49] iPadPro3_129, [0000029ECDB90100][0000029ECE0856C0 49] iPadPro4_129, [0000029ECDBCFB00][0000029ECD05B800 49] AppleTV, [0000029ECDB91100][0000029ECE089940 49] AppleTV4K, [0000029ECDBCC100][0000029ECE08DA80 49] TVOS, [0000029ECDB90500][0000029ECE095C00 49] Mac, [0000029ECDBCF600][0000029ECE0980C0 49] MacClient, [0000029ECDB93F00][0000029ECE09C240 49] MacNoEditor, [0000029ECDBCE000][0000029ECE0A03C0 49] MacServer, [0000029ECDB93100][0000029ECE0A4540 49] Linux, [0000029ECDBCDD00][0000029ECE0A86C0 49] LinuxAArch64, [0000029ECDB92100][0000029ECE0AC840 49] LinuxNoEditor, [0000029ECDBCED00][0000029ECE0B09C0 49] LinuxAArch64NoEditor, [0000029ECDB91400][0000029ECE0B4B40 49] LinuxClient, [0000029ECDBCC200][0000029ECE0B8CC0 49] LinuxAArch64Client, [0000029ECDB92600][0000029ECE0BCE40 49] LinuxServer, [0000029ECDBCE600][0000029ECE0C0FC0 49] LinuxAArch64Server, [0000029ECDB92D00][0000029ECE0C5140 49] Android, [0000029ECDBCCE00][0000029ECE0C92C0 49] Android_Low, [0000029ECDB91500][0000029ECE0CD440 49] Android_Mid, [0000029ECDBCF100][0000029ECE0D15C0 49] Android_High, [0000029ECDB92700][0000029ECE0D5740 49] Android_Default, [0000029ECDBCD900][0000029ECE091880 49] Android_Adreno4xx, [0000029ECDB90A00][0000029ECE0D99C0 49] Android_Adreno5xx_Low, [0000029ECDBCD100][0000029ECE0DDB00 49] Android_Adreno5xx, [0000029ECDB90800][0000029ECE0E1C40 49] Android_Adreno6xx, [0000029ECDBCF700][0000029ECE0E8100 49] Android_Adreno6xx_Vulkan, [0000029ECDB92800][0000029ECE0EC280 49] Android_Mali_T6xx, [0000029ECDBCD600][0000029ECE0F0400 49] Android_Mali_T7xx, [0000029ECDB93500][0000029ECE0F4580 49] Android_Mali_T8xx, [0000029ECDBCEE00][0000029ECE0F8700 49] Android_Mali_G71, [0000029ECDB90F00][0000029ECE0FC880 49] Android_Mali_G72, [0000029ECDBCCD00][0000029ECE100A00 49] Android_Mali_G72_Vulkan, [0000029ECDB92F00][0000029ECE104B80 49] Android_Mali_G76, [0000029ECDBCD300][0000029ECE108D00 49] Android_Mali_G76_Vulkan, [0000029ECDB91B00][0000029ECE10CE80 49] Android_Mali_G77, [0000029ECDB7EE00][0000029ECE111000 49] Android_Mali_G77_Vulkan, [0000029ECDBEF900][0000029ECE115180 49] Android_Vulkan_SM5, [0000029ECDB7C800][0000029ECE119300 49] Android_PowerVR_G6xxx, [0000029ECDBEF400][0000029ECE11D480 49] Android_PowerVR_GT7xxx, [0000029ECDB7CE00][0000029ECE121600 49] Android_PowerVR_GE8xxx, [0000029ECDBED300][0000029ECE125780 49] Android_PowerVR_GM9xxx, [0000029ECDB7C900][0000029ECE0E58C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000029ECDBEDE00][0000029ECE129A00 49] Android_TegraK1, [0000029ECDB7CC00][0000029ECE12DB40 49] Android_Unknown_Vulkan, [0000029ECDBEC200][0000029ECE131C80 49] Lumin, [0000029ECDB7D000][0000029ECE138140 49] Lumin_Desktop, [0000029ECDBED700][0000029ECE13C2C0 49] HoloLens, 
+[2021.06.22-12.59.15:083][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.22-12.59.15:083][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.22-12.59.15:083][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.22-12.59.15:083][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.22-12.59.15:083][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.22-12.59.15:178][  0]LogNetVersion: Survival_Game 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3431900)
+[2021.06.22-12.59.26:714][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.22-12.59.26:777][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.051852 seconds
+[2021.06.22-12.59.26:783][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.06.22-12.59.26:783][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.06.22-12.59.26:783][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.22-12.59.29:925][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.22-12.59.29:984][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.22-12.59.32:252][  0]SourceControl: Source control is disabled
+[2021.06.22-12.59.32:252][  0]SourceControl: Source control is disabled
+[2021.06.22-12.59.32:274][  0]SourceControl: Source control is disabled
+[2021.06.22-12.59.32:401][  0]SourceControl: Source control is disabled
+[2021.06.22-12.59.32:483][  0]LogUProjectInfo: Found projects:
+[2021.06.22-12.59.32:509][  0]SourceControl: Source control is disabled
+[2021.06.22-12.59.34:243][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.22-12.59.34:328][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.22-12.59.34:328][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.22-12.59.35:361][  0]LogOcInput: OculusInput pre-init called
+[2021.06.22-12.59.35:867][  0]LogCollectionManager: Loaded 0 collections in 0.001643 seconds
+[2021.06.22-12.59.36:016][  0]LogFileCache: Scanning file cache for directory 'D:/IanBarrow/Documents/Start_Project/Survival_Game/Saved/Collections/' took 0.01s
+[2021.06.22-12.59.36:016][  0]LogFileCache: Scanning file cache for directory 'D:/IanBarrow/Documents/Start_Project/Survival_Game/Content/Developers/barro/Collections/' took 0.00s
+[2021.06.22-12.59.36:016][  0]LogFileCache: Scanning file cache for directory 'D:/IanBarrow/Documents/Start_Project/Survival_Game/Content/Collections/' took 0.00s
+[2021.06.22-12.59.36:573][  0]LogEngine: Initializing Engine...
+[2021.06.22-12.59.36:654][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.06.22-12.59.36:665][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.22-12.59.36:666][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.22-12.59.37:140][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.22-12.59.37:412][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.22-12.59.37:413][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.22-12.59.37:443][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.22-12.59.37:443][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.22-12.59.37:443][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-12.59.37:443][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-12.59.37:443][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-12.59.37:443][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-12.59.37:443][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-12.59.37:443][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-12.59.37:443][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-12.59.37:443][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-12.59.37:443][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-12.59.37:443][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-12.59.37:523][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-12.59.37:523][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-12.59.37:523][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.06.22-12.59.37:523][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.06.22-12.59.37:523][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.06.22-12.59.37:523][  0]LogAudioMixer: Display: 5: BackRight
+[2021.06.22-12.59.37:523][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.06.22-12.59.37:523][  0]LogAudioMixer: Display: 7: SideRight
+[2021.06.22-12.59.37:568][  0]LogAudioMixer: Display: Using Audio Device Speakers (GSP 370)
+[2021.06.22-12.59.37:568][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-12.59.37:710][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-12.59.37:710][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-12.59.37:711][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-12.59.37:711][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-12.59.37:711][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.06.22-12.59.37:713][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-12.59.37:713][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-12.59.37:713][  0]LogInit: FAudioDevice initialized.
+[2021.06.22-12.59.37:713][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.22-12.59.37:843][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.22-12.59.38:014][  0]LogDerivedDataCache: Saved boot cache 0.17s 84MB C:/Users/barro/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.22-12.59.38:015][  0]LogInit: Texture streaming: Enabled
+[2021.06.22-12.59.38:093][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.06.22-12.59.38:112][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.22-12.59.38:112][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={57240F20-40B8-6BD1-5EDE-008913F3ED7E}
+[2021.06.22-12.59.38:112][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.22-12.59.38:118][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.22-12.59.38:228][  0]LogInit: Transaction tracking system initialized
+[2021.06.22-12.59.38:490][  0]BlueprintLog: New page: Editor Load
+[2021.06.22-12.59.39:409][  0]LocalizationService: Localization service is disabled
+[2021.06.22-12.59.39:773][  0]TimingProfiler: Initialize
+[2021.06.22-12.59.39:775][  0]TimingProfiler: OnSessionChanged
+[2021.06.22-12.59.39:776][  0]LoadingProfiler: Initialize
+[2021.06.22-12.59.39:776][  0]LoadingProfiler: OnSessionChanged
+[2021.06.22-12.59.39:777][  0]NetworkingProfiler: Initialize
+[2021.06.22-12.59.39:777][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.22-12.59.39:777][  0]MemoryProfiler: Initialize
+[2021.06.22-12.59.39:777][  0]MemoryProfiler: OnSessionChanged
+[2021.06.22-12.59.39:794][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2021.06.22-12.59.39:795][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2021.06.22-12.59.41:305][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.22-12.59.41:305][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.22-12.59.42:269][  0]LogFileCache: Scanning file cache for directory 'D:/IanBarrow/Documents/Start_Project/Survival_Game/Content/' took 0.01s
+[2021.06.22-12.59.43:500][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.06.22-12.59.43:522][  0]SourceControl: Source control is disabled
+[2021.06.22-12.59.43:522][  0]LogUnrealEdMisc: Loading editor; pre map load, took 47.171
+[2021.06.22-12.59.43:522][  0]Cmd: MAP LOAD FILE="../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Maps/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.22-12.59.43:528][  0]LightingResults: New page: Lighting Build
+[2021.06.22-12.59.43:540][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-12.59.43:599][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-12.59.43:629][  0]MapCheck: New page: Map Check
+[2021.06.22-12.59.43:629][  0]LightingResults: New page: Lighting Build
+[2021.06.22-12.59.44:230][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.06.22-12.59.44:743][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Offsets/A_Idle_Rifle_Hip.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.45:705][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Crouch_Idle_Rifle_Hip.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.45:797][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Offsets/A_Idle_Rifle_Ironsights.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:041][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Blendspaces/A_Idle_Unarmed.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:042][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Offsets/A_Idle_Look_Down.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:046][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Offsets/A_Idle_Look_Up.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:070][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Sprint_Fwd_Rifle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:103][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Blendspaces/A_Run_Backward_Unarmed.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:110][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Blendspaces/A_Run_Forward_Unarmed.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:128][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Blendspaces/A_Run_Left_Unarmed.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:163][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Blendspaces/A_Run_Right_Unarmed.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:176][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/BS_CrouchWalk.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:192][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Crouch_Walk_Bwd_Rifle_Hip.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:193][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Crouch_Walk_Fwd_Rifle_Hip.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:201][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Crouch_Walk_Lt_Rifle_Hip.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:214][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/Crouch_Walk_Rt_Rifle_Hip.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:307][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Character/Materials/Naked/M_Body.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:320][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Character/Materials/Naked/BaseBody_Diffuse.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:323][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Character/Materials/Naked/BaseBody_NORMAL.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:332][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Character/Materials/Naked/BaseBody_Spec_Rough_Scater_AO.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:345][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Character/Materials/Naked/HumanSkinProfile.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:346][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Character/Materials/Naked/M_Head.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:358][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Character/Materials/Naked/BaseHead_Diffuse.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:363][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Character/Materials/Naked/BaseHead_NORM.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:371][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Character/Materials/Naked/BaseHead_Spec_Rough_Scater_AO.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:378][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Character/Materials/Eyes/Heroes/Kwang/Materials/MI_Kwang_EyeRefractive.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:379][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Materials/M_EyeRefractive': Can't find file.
+[2021.06.22-12.59.46:379][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:379][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Materials/M_EyeRefractive': Can't find file.
+[2021.06.22-12.59.46:379][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:379][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Materials/M_EyeRefractive': Can't find file.
+[2021.06.22-12.59.46:379][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:380][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/EyeInner_Profile': Can't find file.
+[2021.06.22-12.59.46:380][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:380][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/EyeInner_Profile': Can't find file.
+[2021.06.22-12.59.46:380][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:380][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_Eye_Wet_Normal': Can't find file.
+[2021.06.22-12.59.46:380][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:381][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_Eye_Wet_Normal': Can't find file.
+[2021.06.22-12.59.46:381][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:381][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_EyeIrisBaseColor_Example_3': Can't find file.
+[2021.06.22-12.59.46:381][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:381][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_EyeIrisBaseColor_Example_3': Can't find file.
+[2021.06.22-12.59.46:381][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:381][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_EyeScleraBaseColor_Example_4': Can't find file.
+[2021.06.22-12.59.46:381][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:382][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_EyeScleraBaseColor_Example_4': Can't find file.
+[2021.06.22-12.59.46:382][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:382][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/EyeInner_Profile': Can't find file.
+[2021.06.22-12.59.46:382][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:382][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_Eye_Wet_Normal': Can't find file.
+[2021.06.22-12.59.46:382][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:382][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_EyeIrisBaseColor_Example_3': Can't find file.
+[2021.06.22-12.59.46:382][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:383][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_EyeScleraBaseColor_Example_4': Can't find file.
+[2021.06.22-12.59.46:383][  0]LoadErrors: Failed to load /Game/Character/Meshes/SK_BaseBody_Head.SK_BaseBody_Head Referenced by CharacterMesh0
+[2021.06.22-12.59.46:393][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Animations/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:433][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Character/Materials/Naked/M_Underwear.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:443][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Character/Materials/Naked/Underware_AORoughMetal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:451][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Character/Materials/Naked/Underware_Diffuse.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:464][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Character/Materials/Naked/Underware_NORM.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.46:751][  0]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Misc/M_Outline.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-12.59.47:475][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Materials/M_EyeRefractive': Can't find file.
+[2021.06.22-12.59.47:476][  0]LoadErrors: Failed to load /Game/Character/Materials/Eyes/Characters/Global/Eyes/Materials/M_EyeRefractive.M_EyeRefractive Referenced by MI_Kwang_EyeRefractive
+[2021.06.22-12.59.47:476][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_EyeIrisBaseColor_Example_3': Can't find file.
+[2021.06.22-12.59.47:476][  0]LoadErrors: Failed to load /Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_EyeIrisBaseColor_Example_3.T_EyeIrisBaseColor_Example_3 Referenced by MI_Kwang_EyeRefractive
+[2021.06.22-12.59.47:476][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_Eye_Wet_Normal': Can't find file.
+[2021.06.22-12.59.47:476][  0]LoadErrors: Failed to load /Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_Eye_Wet_Normal.T_Eye_Wet_Normal Referenced by MI_Kwang_EyeRefractive
+[2021.06.22-12.59.47:477][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_EyeScleraBaseColor_Example_4': Can't find file.
+[2021.06.22-12.59.47:477][  0]LoadErrors: Failed to load /Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/T_EyeScleraBaseColor_Example_4.T_EyeScleraBaseColor_Example_4 Referenced by MI_Kwang_EyeRefractive
+[2021.06.22-12.59.47:477][  0]LogLinker: Warning: [AssetLog] D:\IanBarrow\Documents\Start_Project\Survival_Game\Content\Character\Materials\Eyes\Heroes\Kwang\Materials\MI_Kwang_EyeRefractive.uasset: Failed to load '/Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/EyeInner_Profile': Can't find file.
+[2021.06.22-12.59.47:477][  0]LoadErrors: Failed to load /Game/Character/Materials/Eyes/Characters/Global/Eyes/Textures/EyeInner_Profile.EyeInner_Profile Referenced by MI_Kwang_EyeRefractive
+[2021.06.22-12.59.48:377][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameLevel'.
+[2021.06.22-12.59.48:377][  0]LogAIModule: Creating AISystem for world GameLevel
+[2021.06.22-12.59.48:555][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.22-12.59.48:579][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.06.22-12.59.48:580][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.22-12.59.48:580][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2021.06.22-12.59.48:581][  0]LogFileHelpers: Loading map 'GameLevel' took 5.058
+[2021.06.22-12.59.49:460][  0]LogUnrealEdMisc: Total Editor Startup Time, took 53.109
+[2021.06.22-12.59.49:718][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-12.59.49:724][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-12.59.49:729][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-12.59.49:735][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-12.59.49:792][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3610 classes and 865 folders.
+[2021.06.22-12.59.49:953][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.22-12.59.49:988][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.22-12.59.49:988][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.49:988][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.22-12.59.49:988][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.06.22-12.59.50:002][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.22-12.59.50:002][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:002][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.22-12.59.50:002][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.06.22-12.59.50:016][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.22-12.59.50:016][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:016][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.22-12.59.50:016][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.06.22-12.59.50:035][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.22-12.59.50:035][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:035][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.22-12.59.50:035][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.06.22-12.59.50:049][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.22-12.59.50:049][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:050][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.22-12.59.50:050][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.06.22-12.59.50:060][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.22-12.59.50:060][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:060][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.22-12.59.50:060][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.06.22-12.59.50:062][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.22-12.59.50:062][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:063][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.22-12.59.50:063][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.06.22-12.59.50:065][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.22-12.59.50:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.22-12.59.50:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.06.22-12.59.50:076][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.22-12.59.50:076][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:076][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.22-12.59.50:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.06.22-12.59.50:101][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.22-12.59.50:101][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:101][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.22-12.59.50:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.06.22-12.59.50:157][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.22-12.59.50:157][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:157][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.22-12.59.50:157][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.06.22-12.59.50:166][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.22-12.59.50:166][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:166][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.22-12.59.50:166][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.06.22-12.59.50:175][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.22-12.59.50:175][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:175][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.22-12.59.50:175][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.06.22-12.59.50:187][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.22-12.59.50:188][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:188][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.22-12.59.50:188][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.06.22-12.59.50:201][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.22-12.59.50:201][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:201][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.22-12.59.50:201][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.06.22-12.59.50:220][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.22-12.59.50:220][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:220][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.22-12.59.50:220][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.06.22-12.59.50:226][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.22-12.59.50:226][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:226][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.22-12.59.50:226][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2021.06.22-12.59.50:251][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.22-12.59.50:251][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.22-12.59.50:251][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2021.06.22-12.59.50:266][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.22-12.59.50:266][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:266][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.22-12.59.50:266][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2021.06.22-12.59.50:278][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.22-12.59.50:278][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:278][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.22-12.59.50:278][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.06.22-12.59.50:290][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.22-12.59.50:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:290][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.22-12.59.50:290][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2021.06.22-12.59.50:293][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.22-12.59.50:293][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:293][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.22-12.59.50:293][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2021.06.22-12.59.50:295][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.22-12.59.50:295][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:295][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.22-12.59.50:295][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2021.06.22-12.59.50:297][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.22-12.59.50:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:297][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.22-12.59.50:297][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2021.06.22-12.59.50:299][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.22-12.59.50:300][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:300][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.22-12.59.50:300][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2021.06.22-12.59.50:311][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.22-12.59.50:311][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.22-12.59.50:311][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.22-12.59.50:311][  0]LogPakFile: OnPakFileMounted2Time == 0.000127
+[2021.06.22-12.59.50:792][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.22-12.59.50:866][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.06.22-12.59.50:956][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.22-12.59.50:956][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.06.22-12.59.50:956][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.06.22-12.59.50:956][  0]LogLoad: (Engine Initialization) Total time: 54.61 seconds
+[2021.06.22-12.59.50:956][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.22-12.59.50:956][  0]LogInit: First time updating LLM stats...
+[2021.06.22-12.59.51:031][  0]LogAssetRegistry: Asset discovery search completed in 37.2722 seconds
+[2021.06.22-12.59.51:033][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.06.22-12.59.51:144][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.22-12.59.51:207][  0]LogSlate: Took 0.006124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.22-12.59.51:215][  0]LogSlate: Took 0.006654 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.22-12.59.51:232][  0]LogSlate: Took 0.011947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.22-12.59.51:455][  0]LogRenderer: Reallocating scene render targets to support 1204x560 Format 10 NumSamples 1 (Frame:1).
+[2021.06.22-12.59.51:455][  0]LogSlate: Took 0.014972 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.22-12.59.51:490][  0]LogSlate: Took 0.010453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.22-12.59.54:409][303]LogSlate: Window 'Message Log' being destroyed
+[2021.06.22-12.59.54:412][303]LogSlate: Window 'Message Log' being destroyed
+[2021.06.22-13.00.08:417][514]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.22-13.00.08:425][514]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.22-13.00.09:914][691]LogContentBrowser: Attempting asset rename: NewFolder -> Widgets
+[2021.06.22-13.00.09:914][691]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.22-13.00.18:000][535]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.22-13.01.13:976][535]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.06.22-13.01.14:117][535]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.06.22-13.01.14:124][535]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.06.22-13.01.21:662][436]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_InteractionWidget
+[2021.06.22-13.01.21:867][436]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.06.22-13.01.22:435][503]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UserInterface/Widgets/BP_InteractionWidget.BP_InteractionWidget
+[2021.06.22-13.01.23:499][503]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.06.22-13.01.25:316][503]LogSlate: Took 0.014478 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.22-13.01.33:239][ 86]LogSavePackage: Moving '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Saved/BP_InteractionWidget8F9904754AC054310F21F7A7D5395D4D.tmp' to '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/UserInterface/Widgets/BP_InteractionWidget.uasset'
+[2021.06.22-13.01.33:267][ 86]AssetCheck: New page: Asset Save: BP_InteractionWidget
+[2021.06.22-13.01.33:268][ 86]LogContentValidation: Display: Validating WidgetBlueprint /Game/UserInterface/Widgets/BP_InteractionWidget.BP_InteractionWidget
+[2021.06.22-13.04.57:335][623]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.22-13.05.48:193][750]LogSlate: Took 0.063352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.06.22-13.07.25:879][100]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/UserInterface/Fonts/FontAwesomeRegular_Font.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-13.07.25:901][100]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/UserInterface/Fonts/FontAwesomeRegular.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-13.07.25:927][101]LogSlate: Last resort fallback font was requested. Font: '/Game/UserInterface/Fonts/FontAwesomeRegular.FontAwesomeRegular', Character: '_ (U+005f)'
+[2021.06.22-13.07.26:036][101]LogSlate: Took 0.108160 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.06.22-13.07.26:076][101]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/UserInterface/Fonts/GothamProRegular_Font.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-13.07.26:090][101]LogLinker: Warning: Asset '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/UserInterface/Fonts/GothamProRegular.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.06.22-13.09.39:191][520]LogSavePackage: Moving '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Saved/BP_InteractionWidget6A35FD2D466CA8109888A9ADB7C857A2.tmp' to '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/UserInterface/Widgets/BP_InteractionWidget.uasset'
+[2021.06.22-13.09.39:205][520]AssetCheck: New page: Asset Save: BP_InteractionWidget
+[2021.06.22-13.09.39:205][520]LogContentValidation: Display: Validating WidgetBlueprint /Game/UserInterface/Widgets/BP_InteractionWidget.BP_InteractionWidget
+[2021.06.22-13.09.40:596][679]BlueprintLog: New page: Compile BP_InteractionWidget
+[2021.06.22-13.09.40:733][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.06.22-13.10.45:190][943]LogSlate: Took 0.008426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.22-13.16.13:588][593]LogSavePackage: Moving '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Saved/BP_InteractionWidget9799EB2843BA510351BC828043C8BE6F.tmp' to '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/UserInterface/Widgets/BP_InteractionWidget.uasset'
+[2021.06.22-13.16.13:606][593]AssetCheck: New page: Asset Save: BP_InteractionWidget
+[2021.06.22-13.16.13:606][593]LogContentValidation: Display: Validating WidgetBlueprint /Game/UserInterface/Widgets/BP_InteractionWidget.BP_InteractionWidget
+[2021.06.22-13.16.14:108][645]BlueprintLog: New page: Compile BP_InteractionWidget
+[2021.06.22-13.16.15:406][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.06.22-13.16.28:368][ 57]LogSavePackage: Moving '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Saved/BP_InteractionWidgetAE8846424B79B24E416DD6B406312EBB.tmp' to '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/UserInterface/Widgets/BP_InteractionWidget.uasset'
+[2021.06.22-13.16.28:380][ 57]AssetCheck: New page: Asset Save: BP_InteractionWidget
+[2021.06.22-13.16.28:380][ 57]LogContentValidation: Display: Validating WidgetBlueprint /Game/UserInterface/Widgets/BP_InteractionWidget.BP_InteractionWidget
+[2021.06.22-13.16.59:253][259]LogSavePackage: Moving '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Saved/BP_InteractionWidgetCDCEB5BE4AC927289863F29FF7EFA512.tmp' to '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/UserInterface/Widgets/BP_InteractionWidget.uasset'
+[2021.06.22-13.16.59:265][259]AssetCheck: New page: Asset Save: BP_InteractionWidget
+[2021.06.22-13.16.59:265][259]LogContentValidation: Display: Validating WidgetBlueprint /Game/UserInterface/Widgets/BP_InteractionWidget.BP_InteractionWidget
+[2021.06.22-13.17.01:061][432]BlueprintLog: New page: Compile BP_InteractionWidget
+[2021.06.22-13.17.01:962][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.06.22-13.18.28:979][161]BlueprintLog: New page: Compile BP_InteractionWidget
+[2021.06.22-13.18.29:008][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.06.22-13.18.29:599][221]LogSavePackage: Moving '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Saved/BP_InteractionWidgetE48024FD4BF3C8D09354AF9D9EADB6EA.tmp' to '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/UserInterface/Widgets/BP_InteractionWidget.uasset'
+[2021.06.22-13.18.29:612][221]AssetCheck: New page: Asset Save: BP_InteractionWidget
+[2021.06.22-13.18.29:612][221]LogContentValidation: Display: Validating WidgetBlueprint /Game/UserInterface/Widgets/BP_InteractionWidget.BP_InteractionWidget
+[2021.06.22-13.18.37:452][ 63]LogSlate: Window 'BP_InteractionWidget' being destroyed
+[2021.06.22-13.18.37:457][ 63]LogSlate: Window 'BP_InteractionWidget' being destroyed
+[2021.06.22-13.18.37:864][ 63]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-13.18.37:879][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-13.18.37:902][ 63]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-13.18.37:902][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-13.19.00:377][705]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce
+[2021.06.22-13.19.37:192][272]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.22-13.19.47:092][228]BlueprintLog: New page: Compile Blueprint_WallSconce
+[2021.06.22-13.19.47:179][228]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.06.22-13.19.50:218][492]LogSavePackage: Moving '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Saved/Blueprint_WallSconce8D08304A49676742D764758A803839B4.tmp' to '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset'
+[2021.06.22-13.19.50:240][492]AssetCheck: New page: Asset Save: Blueprint_WallSconce
+[2021.06.22-13.19.50:240][492]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce
+[2021.06.22-13.22.26:944][891]BlueprintLog: New page: Compile Blueprint_WallSconce
+[2021.06.22-13.22.27:018][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.06.22-13.22.27:653][951]LogSavePackage: Moving '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Saved/Blueprint_WallSconce2645690B4AEBA02EDE08BABFBED35D0B.tmp' to '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset'
+[2021.06.22-13.22.27:663][951]AssetCheck: New page: Asset Save: Blueprint_WallSconce
+[2021.06.22-13.22.27:663][951]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce
+[2021.06.22-13.23.26:320][652]BlueprintLog: New page: Compile Blueprint_WallSconce
+[2021.06.22-13.23.26:481][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.06.22-13.23.27:237][710]LogSavePackage: Moving '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Saved/Blueprint_WallSconceBC9FEB2F4EAC7173C24EE39F5EFCC964.tmp' to '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset'
+[2021.06.22-13.23.27:251][710]AssetCheck: New page: Asset Save: Blueprint_WallSconce
+[2021.06.22-13.23.27:251][710]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce
+[2021.06.22-13.23.28:989][862]LogSlate: Window 'Blueprint_WallSconce' being destroyed
+[2021.06.22-13.23.28:993][862]LogSlate: Window 'Blueprint_WallSconce' being destroyed
+[2021.06.22-13.23.28:998][862]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-13.23.28:998][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-13.23.33:113][329]LogSavePackage: Moving '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Saved/Blueprint_WallSconceBDF14309407B4DDFE22CB59C33C32565.tmp' to '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset'
+[2021.06.22-13.23.33:125][329]AssetCheck: New page: Asset Save: Blueprint_WallSconce
+[2021.06.22-13.23.33:125][329]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce
+[2021.06.22-13.23.36:447][725]LogSavePackage: Moving '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Saved/Blueprint_WallSconce7F24DC414E57762AAB1D9CB0D9095E7C.tmp' to '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset'
+[2021.06.22-13.23.36:458][725]AssetCheck: New page: Asset Save: Blueprint_WallSconce
+[2021.06.22-13.23.36:458][725]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce
+[2021.06.22-13.23.40:203][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameLevel" FILE="../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Maps/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.22-13.23.40:242][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.06.22-13.23.40:267][158]LogSavePackage: Moving '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Saved/GameLevel2C0B0FDF4FD123D4232E3696B398CC50.tmp' to '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Maps/GameLevel.umap'
+[2021.06.22-13.23.40:332][158]AssetCheck: New page: Asset Save: GameLevel
+[2021.06.22-13.23.40:332][158]LogContentValidation: Display: Validating World /Game/Maps/GameLevel.GameLevel
+[2021.06.22-13.23.44:222][622]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce4)
+[2021.06.22-13.24.10:561][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameLevel" FILE="../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Maps/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.22-13.24.10:580][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.06.22-13.24.10:600][688]LogSavePackage: Moving '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Saved/GameLevel5470BB8C4A106611FD92828AA9F36AEA.tmp' to '../../../../../../IanBarrow/Documents/Start_Project/Survival_Game/Content/Maps/GameLevel.umap'
+[2021.06.22-13.24.10:616][688]AssetCheck: New page: Asset Save: GameLevel
+[2021.06.22-13.24.10:616][688]LogContentValidation: Display: Validating World /Game/Maps/GameLevel.GameLevel
+[2021.06.22-13.24.15:656][159]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.06.22-13.24.55:847][633]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.22-13.24.55:851][633]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.22-13.24.56:623][698]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.22-13.24.56:705][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.22-13.24.56:706][698]PIE: New page: PIE session: GameLevel (22 Jun 2021, 15:24:56)
+[2021.06.22-13.24.56:772][698]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.22-13.24.56:775][698]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.22-13.24.56:776][698]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameLevel
+[2021.06.22-13.24.56:790][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014507s)
+[2021.06.22-13.24.56:809][698]LogAIModule: Creating AISystem for world GameLevel
+[2021.06.22-13.24.56:819][698]LogPlayLevel: PIE: World Init took: (0.029141s)
+[2021.06.22-13.24.56:820][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameLevel.GameLevel to /Game/Maps/UEDPIE_0_GameLevel.GameLevel (0.044060s)
+[2021.06.22-13.24.56:887][698]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.06.22-13.24.56:889][698]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.22-13.24.56:890][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.22-13.24.56:890][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.22-13.24.56:890][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.22-13.24.56:890][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.22-13.24.56:890][698]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.22-13.24.56:890][698]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.22-13.24.56:890][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.22-13.24.56:890][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.22-13.24.56:891][698]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.22-13.24.56:891][698]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.22-13.24.56:893][698]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.22-13.24.56:893][698]LogAudioMixer: Display: 1: FrontRight
+[2021.06.22-13.24.56:894][698]LogAudioMixer: Display: 2: FrontCenter
+[2021.06.22-13.24.56:894][698]LogAudioMixer: Display: 3: LowFrequency
+[2021.06.22-13.24.56:894][698]LogAudioMixer: Display: 4: BackLeft
+[2021.06.22-13.24.56:894][698]LogAudioMixer: Display: 5: BackRight
+[2021.06.22-13.24.56:894][698]LogAudioMixer: Display: 6: SideLeft
+[2021.06.22-13.24.56:894][698]LogAudioMixer: Display: 7: SideRight
+[2021.06.22-13.24.56:913][698]LogAudioMixer: Display: Using Audio Device Speakers (GSP 370)
+[2021.06.22-13.24.56:913][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.22-13.24.56:913][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.22-13.24.56:913][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.22-13.24.56:914][698]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.22-13.24.56:914][698]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.22-13.24.56:914][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.06.22-13.24.56:927][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.22-13.24.56:927][698]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.22-13.24.56:927][698]LogInit: FAudioDevice initialized.
+[2021.06.22-13.24.56:927][698]LogAudio: Display: Audio Device (ID: 2) registered with world 'GameLevel'.
+[2021.06.22-13.24.56:942][698]LogLoad: Game class is 'BP_SurvivalGameModeBase_C'
+[2021.06.22-13.24.56:944][698]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2021.06.22-14.24.56
+[2021.06.22-13.24.56:960][698]LogWorld: Bringing up level for play took: 0.017218
+[2021.06.22-13.24.56:962][698]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.06.22-13.24.57:022][698]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.06.22-13.24.57:066][698]PIE: Server logged in
+[2021.06.22-13.24.57:078][698]PIE: Play in editor total start time 0.45 seconds.
+[2021.06.22-13.27.02:575][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-13.27.02:575][632]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GameLevel
+[2021.06.22-13.27.02:576][632]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.22-13.27.02:577][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-13.27.02:586][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.22-13.27.02:596][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.22-13.27.02:607][632]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.22-13.27.02:641][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-13.27.02:644][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-13.27.02:669][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.22-13.27.02:675][632]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.06.22-13.27.02:708][633]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.06.22-13.28.20:236][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.06.22-13.28.20:322][859]LogSlate: Window 'Survival_Game - Unreal Editor' being destroyed
+[2021.06.22-13.28.20:573][860]Cmd: QUIT_EDITOR
+[2021.06.22-13.28.20:573][860]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.06.22-13.28.20:640][860]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.06.22-13.28.21:274][860]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.06.22-13.28.21:275][860]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.06.22-13.28.21:275][860]LogAudio: Display: Audio Device unregistered from world 'GameLevel'.
+[2021.06.22-13.28.21:275][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-13.28.21:276][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.22-13.28.21:305][860]LogAudio: Display: Audio Device Manager Shutdown
+[2021.06.22-13.28.21:319][860]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.22-13.28.21:324][860]LogExit: Preparing to exit.
+[2021.06.22-13.28.22:519][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBED900] Windows
+[2021.06.22-13.28.22:519][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBED800] Default__DeviceProfile
+[2021.06.22-13.28.22:519][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCFF00] WindowsNoEditor
+[2021.06.22-13.28.22:519][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBEF300] WindowsServer
+[2021.06.22-13.28.22:519][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCD000] WindowsClient
+[2021.06.22-13.28.22:519][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBED100] IOS
+[2021.06.22-13.28.22:519][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCFC00] iPadAir
+[2021.06.22-13.28.22:519][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBEF200] iPadAir2
+[2021.06.22-13.28.22:519][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB7E600] IPadPro
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB7E700] iPadAir3
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBEF700] iPadAir4
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB7FC00] iPadMini2
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBEDF00] iPadMini3
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB7DB00] iPadMini4
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBEDC00] iPadMini5
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB91F00] iPhone6
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB92000] iPodTouch6
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCFD00] iPhone7
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCFE00] iPodTouch7
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB93600] iPhone5S
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCD800] iPhone6Plus
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB91900] iPhone6S
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCDF00] iPhone6SPlus
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB90C00] iPhone7Plus
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCE700] iPhoneSE
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB91200] iPhone8
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCFA00] iPhone8Plus
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB90700] iPhoneX
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCD200] iPhoneXS
+[2021.06.22-13.28.22:520][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB92500] iPhoneXSMax
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCC700] iPhoneXR
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB93000] iPhone11
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCF300] iPhone11Pro
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB91800] iPhone11ProMax
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCE900] iPhoneSE2
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB93C00] iPhone12Mini
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCE800] iPhone12
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBEFA00] iPhone12Pro
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB91700] iPhone12ProMax
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBEFC00] iPadPro105
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB90E00] iPadPro129
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBEED00] iPadPro97
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB92C00] iPadPro2_129
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCD700] iPad5
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB93800] iPad6
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCDA00] iPad7
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB93B00] iPad8
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCCC00] iPadPro11
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB90B00] iPadPro2_11
+[2021.06.22-13.28.22:521][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCF900] iPadPro3_129
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB90100] iPadPro4_129
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCFB00] AppleTV
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB91100] AppleTV4K
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCC100] TVOS
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB90500] Mac
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCF600] MacClient
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB93F00] MacNoEditor
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCE000] MacServer
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB93100] Linux
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCDD00] LinuxAArch64
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB92100] LinuxNoEditor
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCED00] LinuxAArch64NoEditor
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB91400] LinuxClient
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCC200] LinuxAArch64Client
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB92600] LinuxServer
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCE600] LinuxAArch64Server
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB92D00] Android
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCCE00] Android_Low
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB91500] Android_Mid
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCF100] Android_High
+[2021.06.22-13.28.22:522][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB92700] Android_Default
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCD900] Android_Adreno4xx
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB90A00] Android_Adreno5xx_Low
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCD100] Android_Adreno5xx
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB90800] Android_Adreno6xx
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCF700] Android_Adreno6xx_Vulkan
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB92800] Android_Mali_T6xx
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCD600] Android_Mali_T7xx
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB93500] Android_Mali_T8xx
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCEE00] Android_Mali_G71
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB90F00] Android_Mali_G72
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCCD00] Android_Mali_G72_Vulkan
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB92F00] Android_Mali_G76
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBCD300] Android_Mali_G76_Vulkan
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB91B00] Android_Mali_G77
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB7EE00] Android_Mali_G77_Vulkan
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBEF900] Android_Vulkan_SM5
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB7C800] Android_PowerVR_G6xxx
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBEF400] Android_PowerVR_GT7xxx
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB7CE00] Android_PowerVR_GE8xxx
+[2021.06.22-13.28.22:523][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBED300] Android_PowerVR_GM9xxx
+[2021.06.22-13.28.22:524][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB7C900] Android_PowerVR_GM9xxx_Vulkan
+[2021.06.22-13.28.22:524][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBEDE00] Android_TegraK1
+[2021.06.22-13.28.22:524][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB7CC00] Android_Unknown_Vulkan
+[2021.06.22-13.28.22:524][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBEC200] Lumin
+[2021.06.22-13.28.22:524][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDB7D000] Lumin_Desktop
+[2021.06.22-13.28.22:524][860]LogDeviceProfile: Device profile begin destroy: [0000029ECDBED700] HoloLens
