@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Survival_Game.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{7BB93F47-E548-4520-B8D7-E6706E9EBC23}</UniqueIdentifier>
+      <UniqueIdentifier>{61D79E3C-BF08-4BB4-8E23-3520B7AD50B8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Survival_Game.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{750125CC-1AFF-49C5-85F1-69D7FFB36D85}</UniqueIdentifier>
+      <UniqueIdentifier>{F5C1A21A-79DF-4DB7-AEAE-2A38D0C5D88F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Survival_Game">
-      <UniqueIdentifier>{190924A0-2FE1-430F-B8A0-F1ABE69CC308}</UniqueIdentifier>
+      <UniqueIdentifier>{2B7F925E-97F9-4DCB-A8C8-6ABE8F6BE5EB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Survival_Game\Survival_Game.Build.cs">
       <Filter>Source\Survival_Game</Filter>
@@ -54,7 +54,7 @@
       <Filter>Source\Survival_Game</Filter>
     </ClInclude>
     <Filter Include="Source\Survival_Game\Components">
-      <UniqueIdentifier>{EF1AEDAF-7C9E-4899-9749-A9363633C8F7}</UniqueIdentifier>
+      <UniqueIdentifier>{B656DA78-C5C3-4BBF-8F90-22292DE32F2B}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Survival_Game\Components\InteractionComponent.cpp">
       <Filter>Source\Survival_Game\Components</Filter>
@@ -69,7 +69,7 @@
       <Filter>Source\Survival_Game\Components</Filter>
     </ClInclude>
     <Filter Include="Source\Survival_Game\Framework">
-      <UniqueIdentifier>{606AFE42-CF91-4ACE-998C-6CFDCFA828C2}</UniqueIdentifier>
+      <UniqueIdentifier>{483A4FFD-3716-45B8-A68E-3940F886FC3C}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Survival_Game\Framework\SurvivalGameInstance.cpp">
       <Filter>Source\Survival_Game\Framework</Filter>
@@ -90,7 +90,7 @@
       <Filter>Source\Survival_Game\Framework</Filter>
     </ClInclude>
     <Filter Include="Source\Survival_Game\Items">
-      <UniqueIdentifier>{16321817-323C-4B00-B28B-30CD7A347863}</UniqueIdentifier>
+      <UniqueIdentifier>{654CAF57-B8AD-465B-8DC2-0CA2EFBA16BA}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Survival_Game\Items\FoodItem.cpp">
       <Filter>Source\Survival_Game\Items</Filter>
@@ -105,7 +105,7 @@
       <Filter>Source\Survival_Game\Items</Filter>
     </ClInclude>
     <Filter Include="Source\Survival_Game\Player">
-      <UniqueIdentifier>{AC70177C-6C06-4CA7-A772-1BA0965C9AC9}</UniqueIdentifier>
+      <UniqueIdentifier>{4F7A49BE-9938-4399-BD88-B03EB35A050A}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Survival_Game\Player\SurvivalGameCharacter.cpp">
       <Filter>Source\Survival_Game\Player</Filter>
@@ -120,7 +120,7 @@
       <Filter>Source\Survival_Game\Player</Filter>
     </ClInclude>
     <Filter Include="Source\Survival_Game\Widgets">
-      <UniqueIdentifier>{D07A6E8B-491F-4532-BD71-67EC682F0CA9}</UniqueIdentifier>
+      <UniqueIdentifier>{CEF67CA7-D5B5-4FFA-84CE-FB0B4E884CFF}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Survival_Game\Widgets\InteractionWidget.cpp">
       <Filter>Source\Survival_Game\Widgets</Filter>
@@ -139,6 +139,15 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\Survival_Game\Widgets\ItemToolTipWidget.h">
       <Filter>Source\Survival_Game\Widgets</Filter>
+    </ClInclude>
+    <Filter Include="Source\Survival_Game\World">
+      <UniqueIdentifier>{16F2BBB1-3D41-475F-B335-502C7806BEA5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Survival_Game\World\Pickup.cpp">
+      <Filter>Source\Survival_Game\World</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Survival_Game\World\Pickup.h">
+      <Filter>Source\Survival_Game\World</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

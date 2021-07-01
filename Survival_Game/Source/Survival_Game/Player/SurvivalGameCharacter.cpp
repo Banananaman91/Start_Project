@@ -8,6 +8,9 @@
 #include "Camera/CameraComponent.h"
 #include "Survival_Game/Components/InteractionComponent.h"
 #include "Survival_Game/Components/InventoryComponent.h"
+#include "Survival_Game/World/Pickup.h"
+#include "Survival_Game/Items/Item.h"
+#include "Components/CapsuleComponent.h"
 
 // Sets default values
 ASurvivalGameCharacter::ASurvivalGameCharacter()
@@ -141,7 +144,7 @@ void ASurvivalGameCharacter::SetupPlayerInputComponent(UInputComponent* PlayerIn
 
 bool ASurvivalGameCharacter::CanSprint() const
 {
-	return false;
+	return true;
 }
 
 void ASurvivalGameCharacter::StartSprinting()
@@ -275,4 +278,41 @@ bool ASurvivalGameCharacter::IsInteracting() const
 float ASurvivalGameCharacter::GetRemainingInteractionTime() const
 {
 	return GetWorldTimerManager().GetTimerRemaining(timerHandle_Interact);
+}
+
+void ASurvivalGameCharacter::UseItem(UItem* item)
+{
+	if (item)
+	{
+		if (playerInventory && !playerInventory->FindItem(item)) return;
+
+		item->OnUse(this);
+		item->Use(this);
+	}
+}
+
+void ASurvivalGameCharacter::DropItem(UItem* item, const int32 quantity)
+{
+	if (playerInventory && item && playerInventory->FindItem(item))
+	{
+		const int32 itemQuantity = item->GetQuantity();
+		const int32 droppedQuantity = playerInventory->ConsumeItem(item, quantity);
+
+		FActorSpawnParameters spawnParams;
+		spawnParams.Owner = this;
+		spawnParams.bNoFail = true;
+		spawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButAlwaysSpawn;
+
+		FVector spawnLocation = GetActorLocation();
+		spawnLocation.Z -= GetCapsuleComponent()->GetScaledCapsuleHalfHeight();
+
+		FTransform spawnTransform(GetActorRotation(), spawnLocation);
+		
+		ensure(pickupClass);
+
+		APickup* pickup = GetWorld()->SpawnActor<APickup>(pickupClass, spawnTransform, spawnParams);
+
+		pickup->InitialisePickup(item->GetClass(), droppedQuantity);
+		playerInventory->OnInventoryUpdated.Broadcast();
+	}
 }
