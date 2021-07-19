@@ -146,3 +146,7 @@ D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Compone
 D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
 D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+D:\IanBarrow\Documents\Start_Project\Survival_Game\Source\Survival_Game/Items/GearItems.h
+D:\IanBarrow\Documents\Start_Project\Survival_Game\Source\Survival_Game/Items/EquippableItems.h
+D:\IanBarrow\Documents\Start_Project\Survival_Game\Intermediate\Build\Win64\UE4Editor\Inc\Survival_Game\EquippableItems.generated.h
+D:\IanBarrow\Documents\Start_Project\Survival_Game\Intermediate\Build\Win64\UE4Editor\Inc\Survival_Game\GearItems.generated.h

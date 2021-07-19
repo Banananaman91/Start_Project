@@ -8,9 +8,16 @@
 #include "Camera/CameraComponent.h"
 #include "Survival_Game/Components/InteractionComponent.h"
 #include "Survival_Game/Components/InventoryComponent.h"
+
+//PICKUP INCLUDES
 #include "Survival_Game/World/Pickup.h"
 #include "Survival_Game/Items/Item.h"
 #include "Components/CapsuleComponent.h"
+
+//EQUIPPABLE INCLUDES
+#include "Survival_Game/Items/GearItems.h"
+#include "Survival_Game/Items/EquippableItems.h"
+#include "Materials/MaterialInstance.h"
 
 // Sets default values
 ASurvivalGameCharacter::ASurvivalGameCharacter()
@@ -26,33 +33,21 @@ ASurvivalGameCharacter::ASurvivalGameCharacter()
 	camera->SetupAttachment(springArm);
 	camera->bUsePawnControlRotation = true;
 
-	helmetMesh = CreateDefaultSubobject<USkeletalMeshComponent>("HelmetMesh");
-	helmetMesh->SetupAttachment(GetMesh());
-	helmetMesh->SetMasterPoseComponent(GetMesh());
+	helmetMesh = playerMeshes.Add(EEquippableSlot::EIS_Helmet, CreateDefaultSubobject<USkeletalMeshComponent>("HelmetMesh"));
+	chestMesh = playerMeshes.Add(EEquippableSlot::EIS_Chest, CreateDefaultSubobject<USkeletalMeshComponent>("ChestMesh"));
+	legsMesh = playerMeshes.Add(EEquippableSlot::EIS_Legs, CreateDefaultSubobject<USkeletalMeshComponent>("LegsMesh"));
+	vestMesh = playerMeshes.Add(EEquippableSlot::EIS_Vest, CreateDefaultSubobject<USkeletalMeshComponent>("VestMesh"));
+	feetMesh = playerMeshes.Add(EEquippableSlot::EIS_Feet, CreateDefaultSubobject<USkeletalMeshComponent>("FeetMesh"));
+	handsMesh = playerMeshes.Add(EEquippableSlot::EIS_Hands, CreateDefaultSubobject<USkeletalMeshComponent>("HandsMesh"));
+	backpackMesh = playerMeshes.Add(EEquippableSlot::EIS_Backpack, CreateDefaultSubobject<USkeletalMeshComponent>("BackpackMesh"));
 
-	chestMesh = CreateDefaultSubobject<USkeletalMeshComponent>("ChestMesh");
-	chestMesh->SetupAttachment(GetMesh());
-	chestMesh->SetMasterPoseComponent(GetMesh());
-
-	legsMesh = CreateDefaultSubobject<USkeletalMeshComponent>("LegsMesh");
-	legsMesh->SetupAttachment(GetMesh());
-	legsMesh->SetMasterPoseComponent(GetMesh());
-
-	vestMesh = CreateDefaultSubobject<USkeletalMeshComponent>("VestMesh");
-	vestMesh->SetupAttachment(GetMesh());
-	vestMesh->SetMasterPoseComponent(GetMesh());
-
-	feetMesh = CreateDefaultSubobject<USkeletalMeshComponent>("FeetMesh");
-	feetMesh->SetupAttachment(GetMesh());
-	feetMesh->SetMasterPoseComponent(GetMesh());
-
-	handsMesh = CreateDefaultSubobject<USkeletalMeshComponent>("HandsMesh");
-	handsMesh->SetupAttachment(GetMesh());
-	handsMesh->SetMasterPoseComponent(GetMesh());
-
-	backpackMesh = CreateDefaultSubobject<USkeletalMeshComponent>("BackpackMesh");
-	backpackMesh->SetupAttachment(GetMesh());
-	backpackMesh->SetMasterPoseComponent(GetMesh());
+	for (auto& playerBodyMesh : playerMeshes)
+	{
+		USkeletalMeshComponent* meshComponent = playerBodyMesh.Value;
+		meshComponent->SetupAttachment(GetMesh());
+		meshComponent->SetMasterPoseComponent(GetMesh());
+	}
+	playerMeshes.Add(EEquippableSlot::EIS_Head, GetMesh());
 
 	GetCharacterMovement()->NavAgentProps.bCanCrouch = true;
 	GetMesh()->SetOwnerNoSee(true);
@@ -72,6 +67,10 @@ void ASurvivalGameCharacter::BeginPlay()
 {
 	Super::BeginPlay();
 	
+	for (auto& playerBodyMesh : playerMeshes)
+	{
+		nakedMeshes.Add(playerBodyMesh.Key, playerBodyMesh.Value->SkeletalMesh);
+	}
 }
 
 void ASurvivalGameCharacter::MoveForward(float val)
@@ -315,4 +314,63 @@ void ASurvivalGameCharacter::DropItem(UItem* item, const int32 quantity)
 		pickup->InitialisePickup(item->GetClass(), droppedQuantity);
 		playerInventory->OnInventoryUpdated.Broadcast();
 	}
+}
+
+
+////// EQUIPPABLE GEAR AND ITEM METHODS /////////
+
+bool ASurvivalGameCharacter::EquipItem(UEquippableItems* item)
+{
+	if (!item) return false;
+	equippedItems.Add(item->slot, item);
+	OnEquippedItemChanged.Broadcast(item->slot, item);
+	return true;
+}
+
+bool ASurvivalGameCharacter::UnEquipItem(UEquippableItems* item)
+{
+	if (!item) return false;
+	if (!equippedItems.Contains(item->slot)) return false;
+	equippedItems.Remove(item->slot);
+	OnEquippedItemChanged.Broadcast(item->slot, item);
+	return true;
+}
+
+void ASurvivalGameCharacter::EquipGear(UGearItems* gear)
+{
+	if (USkeletalMeshComponent* gearMesh = *playerMeshes.Find(gear->slot)) {
+		gearMesh->SetSkeletalMesh(gear->mesh);
+		gearMesh->SetMaterial(gearMesh->GetMaterials().Num() - 1, gear->materialInstance);
+	}
+}
+
+void ASurvivalGameCharacter::UnEquipGear(const EEquippableSlot slot)
+{
+	if (USkeletalMeshComponent* equippableMesh = *playerMeshes.Find(slot))
+	{
+		if (USkeletalMesh* bodyMesh = *nakedMeshes.Find(slot))
+		{
+			equippableMesh->SetSkeletalMesh(bodyMesh);
+			for (int32 i = 0; i < bodyMesh->Materials.Num(); i++)
+			{
+				if (bodyMesh->Materials.IsValidIndex(i))
+				{
+					equippableMesh->SetMaterial(i, bodyMesh->Materials[i].MaterialInterface);
+				}
+			}
+		}
+		else
+		{
+			equippableMesh->SetSkeletalMesh(nullptr);
+		}
+	}
+}
+
+USkeletalMeshComponent* ASurvivalGameCharacter::GetSlotSkeletalMeshComponent(const EEquippableSlot slot)
+{
+	if (playerMeshes.Contains(slot))
+	{
+		return *playerMeshes.Find(slot);
+	}
+	return nullptr;
 }
