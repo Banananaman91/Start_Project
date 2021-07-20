@@ -704,7 +704,7 @@ static struct FScriptStruct_Survival_Game_StaticRegisterNativesFInteractionData
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ASurvivalGameCharacter_Statics::NewProp_playerMeshes_MetaData[] = {
 		{ "Category", "Mesh" },
-		{ "Comment", "////////// Equippable items Vars and Functions /////////////\n" },
+		{ "Comment", "////////////////////////////////////////////////////////////\n////////// Equippable items Vars and Functions /////////////\n////////////////////////////////////////////////////////////\n" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Player/SurvivalGameCharacter.h" },
 		{ "ToolTip", "/ Equippable items Vars and Functions /" },
@@ -798,7 +798,7 @@ static struct FScriptStruct_Survival_Game_StaticRegisterNativesFInteractionData
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASurvivalGameCharacter, 2942600258);
+	IMPLEMENT_CLASS(ASurvivalGameCharacter, 135848266);
 	template<> SURVIVAL_GAME_API UClass* StaticClass<ASurvivalGameCharacter>()
 	{
 		return ASurvivalGameCharacter::StaticClass();

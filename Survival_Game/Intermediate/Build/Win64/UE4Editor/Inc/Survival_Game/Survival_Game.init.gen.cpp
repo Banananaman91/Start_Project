@@ -39,7 +39,7 @@ void EmptyLinkFunctionForGeneratedCodeSurvival_Game_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x3BECB408,
+				0x7CAF6C7B,
 				0xBF5092D6,
 				METADATA_PARAMS(nullptr, 0)
 			};

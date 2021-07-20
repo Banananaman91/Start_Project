@@ -119,7 +119,9 @@ public:
 	bool IsInteracting() const;
 	float GetRemainingInteractionTime() const;
 
+	/////////////////////////////////////////////////////////////////////////////////////////////////
 	///////////// Variables and Methods for the looting, inventory and equipping system /////////////
+	/////////////////////////////////////////////////////////////////////////////////////////////////
 
 public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Components")
@@ -134,7 +136,9 @@ public:
 	UPROPERTY(EditDefaultsOnly, Category = "Items")
 		TSubclassOf<class APickup> pickupClass;
 
+	////////////////////////////////////////////////////////////
 	////////// Equippable items Vars and Functions /////////////
+	////////////////////////////////////////////////////////////
 
 	UPROPERTY(BlueprintReadOnly, Category = "Mesh")
 		TMap<EEquippableSlot, USkeletalMeshComponent*> playerMeshes;
@@ -163,4 +167,9 @@ public:
 protected:
 	UPROPERTY(VisibleAnywhere, Category = "Items")
 		TMap<EEquippableSlot, UEquippableItems*> equippedItems;
+
+	/// <summary>
+	/// Notification
+	/// </summary>
+	virtual void Restart() override;
 };
